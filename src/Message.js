@@ -1,7 +1,7 @@
 function Message(props) {
     return (
         <div>
-            !Message1: {props.props}
+            Message1: {props.props}
         </div>
     );
 }
